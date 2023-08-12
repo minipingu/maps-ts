@@ -1,0 +1,1 @@
+{"id":"index.html","dependencies":[{"name":"C:\\Users\\ranma\\package.json","includedInParent":true,"mtime":1691850854160}],"generated":{"html":"<html>\r\n\t<body>\r\n\t\t<script>src = './src/index.ts';</script>\r\n\t</body>\r\n</html>\r\n"},"sourceMaps":null,"error":null,"hash":"3fc6bf6f42d0fea8ba63af7b77aaf556","cacheData":{"env":{}}}
